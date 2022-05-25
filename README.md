@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.elektrikde.com/wp-content/uploads/2019/09/ros-nedir.jpg" align="center" style="width: 100%" />
+<img src="https://www.elektrikde.com/wp-content/uploads/2019/09/ros-nedir.jpg" align="center" style="width: 100%; height:100" />
 </div>  
   
 
@@ -8,4 +8,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
