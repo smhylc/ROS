@@ -5,6 +5,8 @@
 
 ### <div align="center">Bu repo ROS alanında türkçe kaynak olması için oluşturulmuştur. </div>  
 
+ROS kaynakları için farklı bir hesap altında repo oluşturulması planlanılmaktadır. 
+
 <br />
 
 ----
