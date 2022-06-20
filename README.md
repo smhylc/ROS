@@ -19,3 +19,5 @@ Devam yazılarının farklı bir kanaldan devam edileceği düşünülmektedir. 
 
 Bu planlama dahilinde rosturkey.com ve rosturkey.org alan adları tarafımızca tahsis edilmiştir. 
 
+rosturkey için mail adresleri oluşturulduktan sonra makale yazarı ve paylasımcı olmak isteyen arkadaşlar için bilgilendirme yapılması planlanılmaktadır. 
+
