@@ -7,3 +7,5 @@ Devam yazılarının farklı bir kanaldan devam edileceği düşünülmektedir. 
 
 Bu planlama dahilinde rosturkey.com ve rosturkey.org alan adları tarafımızca tahsis edilmiştir. 
 
+ROS ve ROS2 platformları üzerinde uygulamalar yapan değerli arkadaşların semih.yolcu01@gmail.com adresine makale yazarı olmak için paylaşım yapabilmesi mümkündür. 
+
